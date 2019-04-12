@@ -40,6 +40,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation: 
 
+//Because nestedfunction can reach for content that is outside of its local scope and use that code, such as the variable internal
 
 const external = "I'm outside the function";
 
